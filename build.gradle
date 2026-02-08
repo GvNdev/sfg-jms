@@ -31,7 +31,6 @@ dependencies {
 
 	// Artemis
 	implementation 'org.springframework.boot:spring-boot-starter-artemis'
-	implementation 'org.apache.activemq:artemis-jakarta-server'
 	testImplementation 'org.springframework.boot:spring-boot-starter-artemis-test'
 
 	// Lombok
